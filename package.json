@@ -13,5 +13,8 @@
     "react-dom": "^19.0.0",
     "react-is": "^18.2.0",
     "styled-components": "^6.1.13"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.3"
   }
 }
